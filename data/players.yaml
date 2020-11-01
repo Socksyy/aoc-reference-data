@@ -2501,3 +2501,10 @@
     de:
       - '219739'
       - '2821779'
+- name: Socksyy
+  country: au
+  platforms:
+    voobly:
+      - '123914116'
+    de:
+      - '949573'
